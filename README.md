@@ -27,6 +27,25 @@ Este es el arbol resultante:
 
 Esto es el ejercicio limitando la profundidad a 6
 
+![esquema_alternativo](https://github.com/PabloRodriguezLomba/Ejercicios_MIA/blob/main/Esquema_alternativo_ejercicio1.jpg)
+
+resultados:
+
+Paso 7 C= {i,B,D,C,E,G,H,F} F= {A} \
+Paso 7 C= {i,B,D,C,E,G,H,F,A} F= {I,J} Test(A) \
+Paso 7 C= {i,B,D,C,E,G,H,F,A,J} F= {I,K} Test(J) \
+Paso 7 C= {i,B,D,C,E,G,H,F,A,J,K} F= {I,L} Test(K) \
+Paso 7 C= {i,B,D,C,E,G,H,F,A,J,K,L} F= {I,M,N} Test(L) \
+Paso 7 C= {i,B,D,C,E,G,H,F,A,J,K,L,N} F= {I,M,Ñ,e} Test(N) \
+Paso 7 C= {i,B,D,C,E,G,H,F,A,J,K,L,N,e} F= {I,M,Ñ} Test(e) \
+
+solucion:
+
+Paso 7 C= {i,B,D,C,E,G,H,F,A,J,K,L,N,e} F= {I,M,Ñ}
+
+y este es el arbol que se genera
+
+![arbol_alternativo](https://github.com/PabloRodriguezLomba/Ejercicios_MIA/blob/main/Arbol_ejercicio_1_alternativo.jpg)
 
 
  # Ejercicio 3 : Busceda por coste uniforme
