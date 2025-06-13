@@ -25,7 +25,7 @@ Este es el arbol resultante:
 ![arbol](https://github.com/PabloRodriguezLomba/Ejercicios_MIA/blob/main/arbol_ejercicio_1.jpg)
 
 
-Esto es el ejercicio limitando la profundidad a 6
+# Esto es el ejercicio limitando la profundidad a 6
 
 ![esquema_alternativo](https://github.com/PabloRodriguezLomba/Ejercicios_MIA/blob/main/Esquema_alternativo_ejercicio1.jpg)
 
