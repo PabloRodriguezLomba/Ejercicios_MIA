@@ -1,4 +1,4 @@
-**Table of content:**
+# **Table of content:**
 
 1. [Ejercicio 1: Busqueda en profundidad](#ejercicio1)
 2. [Ejercicio 2: ejercicio 1 limitando la profundidad a 6](#limite6)
