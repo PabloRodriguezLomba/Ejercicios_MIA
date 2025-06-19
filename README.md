@@ -1,4 +1,16 @@
-# Ejercicio 1: Busqueda en profundidad
+**Table of content:**
+
+1. [Ejercicio 1: Busqueda en profundidad](#Ejercicio1)
+2. [Ejercicio 2: ejercicio 1 limitando la profundidad a 6](#limite6)
+3. [Ejercicio 3: Busceda por coste uniforme](#uniforme)
+4. [jercicio 4: Busqueda con algoritmo A A*](#Asterisco)
+
+
+
+
+
+
+# Ejercicio 1: Busqueda en profundidad <a name="Ejercicio1"></a>
 
 ![esquema ejercicio 1.jpg](https://github.com/PabloRodriguezLomba/Ejercicios_MIA/blob/main/capturas/esquema%20ejercicio%201.jpg)
 
@@ -25,7 +37,7 @@ Este es el arbol resultante:
 ![arbol](https://github.com/PabloRodriguezLomba/Ejercicios_MIA/blob/main/capturas/arbol_ejercicio_1.jpg)
 
 
-# Esto es el ejercicio limitando la profundidad a 6
+# Esto es el ejercicio limitando la profundidad a 6 <a name="limite6"></a>
 
 ![esquema_alternativo](https://github.com/PabloRodriguezLomba/Ejercicios_MIA/blob/main/capturas/Esquema_alternativo_ejercicio1.jpg)
 
@@ -48,7 +60,7 @@ y este es el arbol que se genera
 ![arbol_alternativo](https://github.com/PabloRodriguezLomba/Ejercicios_MIA/blob/main/capturas/Arbol_ejercicio_1_alternativo.jpg)
 
 
- # Ejercicio 3 : Busceda por coste uniforme
+ # Ejercicio 3 : Busceda por coste uniforme <a name="uniforme"></a>
 
 
  resultados:
@@ -114,7 +126,8 @@ y este es el arbol que se genera
    &emsp;Test(Calatayud<sub><sup><sup>641</sup></sup></sub>(<sub>Osma</sub>))
 
 
-# Ejercicio 1: Busqueda con algoritmo A A*
+
+# Ejercicio 4: Busqueda con algoritmo A A* <a name="Asterisco"></a>
 
 
 ![esquema](https://github.com/PabloRodriguezLomba/Ejercicios_MIA/blob/main/capturas/esquema_ejercicio_A.jpg)
