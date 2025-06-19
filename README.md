@@ -1,6 +1,6 @@
 # Ejercicio 1: Busqueda en profundidad
 
-![esquema ejercicio 1.jpg](https://github.com/PabloRodriguezLomba/Ejercicios_MIA/blob/main/esquema%20ejercicio%201.jpg)
+![esquema ejercicio 1.jpg](https://github.com/PabloRodriguezLomba/Ejercicios_MIA/blob/main/capturas/esquema%20ejercicio%201.jpg)
 
 en este esquema podemos ver el mundo o entorno del problema y como acabara cuando se expanda y complete el algoritmo de profundidad.
 
@@ -22,12 +22,12 @@ solucion: \
 
 Este es el arbol resultante:
 
-![arbol](https://github.com/PabloRodriguezLomba/Ejercicios_MIA/blob/main/arbol_ejercicio_1.jpg)
+![arbol](https://github.com/PabloRodriguezLomba/Ejercicios_MIA/blob/main/capturas/arbol_ejercicio_1.jpg)
 
 
 # Esto es el ejercicio limitando la profundidad a 6
 
-![esquema_alternativo](https://github.com/PabloRodriguezLomba/Ejercicios_MIA/blob/main/Esquema_alternativo_ejercicio1.jpg)
+![esquema_alternativo](https://github.com/PabloRodriguezLomba/Ejercicios_MIA/blob/main/capturas/Esquema_alternativo_ejercicio1.jpg)
 
 resultados:
 
@@ -45,7 +45,7 @@ Paso 7 C= {i,B,D,C,E,G,H,F,A,J,K,L,N,e} F= {I,M,Ñ}
 
 y este es el arbol que se genera
 
-![arbol_alternativo](https://github.com/PabloRodriguezLomba/Ejercicios_MIA/blob/main/Arbol_ejercicio_1_alternativo.jpg)
+![arbol_alternativo](https://github.com/PabloRodriguezLomba/Ejercicios_MIA/blob/main/capturas/Arbol_ejercicio_1_alternativo.jpg)
 
 
  # Ejercicio 3 : Busceda por coste uniforme
@@ -117,7 +117,7 @@ y este es el arbol que se genera
 # Ejercicio 1: Busqueda con algoritmo A A*
 
 
-![esquema](https://github.com/PabloRodriguezLomba/Ejercicios_MIA/blob/main/esquema_ejercicio_A.jpg)
+![esquema](https://github.com/PabloRodriguezLomba/Ejercicios_MIA/blob/main/capturas/esquema_ejercicio_A.jpg)
 
  f = h + g 
 
@@ -154,4 +154,4 @@ Paso 1: E= {<sub>0 4</sub>i<sup>4</sup>, <sub>1 3</sub>A<sup>4</sup>, <sub>3 2</
 
 Este es el arbol resultante:
 
-![arbol](https://github.com/PabloRodriguezLomba/Ejercicios_MIA/blob/main/Arbol%20de%20ejercicio%201%20mediante%20A.jpg)
+![arbol](https://github.com/PabloRodriguezLomba/Ejercicios_MIA/blob/main/capturas/Arbol%20de%20ejercicio%201%20mediante%20A.jpg)
