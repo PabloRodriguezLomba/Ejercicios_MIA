@@ -3,7 +3,7 @@
 1. [Ejercicio 1: Busqueda en profundidad](#ejercicio1)
 2. [Ejercicio 2: ejercicio 1 limitando la profundidad a 6](#limite6)
 3. [Ejercicio 3: Busceda por coste uniforme](#uniforme)
-4. [jercicio 4: Busqueda con algoritmo A A*](#asterisco)
+4. [Ejercicio 4: Busqueda con algoritmo A A*](#asterisco)
 
 
 
